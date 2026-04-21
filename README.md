@@ -5,7 +5,7 @@ Install:
 *Terminal:*
 
 1) sudo pacman -Syu
-2) sudo pacman -S cups ghostcript jbigkit
+2) sudo pacman -S cups ghostscript jbigkit
 3) sudo cp -rf pstoricohddst-gdi /usr/lib/cups/filter/
 4) sudo chmod 0555 /usr/lib/cups/filter/pstoricohddst-gdi
 5) sudo chown root:root /usr/lib/cups/filter/pstoricohddst-gdi
